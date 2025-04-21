@@ -1,0 +1,2 @@
+Project Description
+This project explores the online retail world by analyzing a complete dataset from a UK-based retailer, covering all sales between December 2010 and December 2011. The retailer sells unique gifts for different occasions, with many customers being wholesalers.
